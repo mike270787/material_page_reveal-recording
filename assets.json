@@ -1,0 +1,23 @@
+[
+    {
+        "hero_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/hotels.png",
+        "title": "Hotels",
+        "body": "All hotels and hostels are sorted by hospitality rating",
+        "icon_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/key.png",
+        "color": "0xFF678FB4"
+    },
+    {
+        "hero_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/banks.png",
+        "title": "Banks",
+        "body": "We carefully verify all banks before adding them into the app",
+        "icon_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/wallet.png",
+        "color": "0xFF65B0B4"
+    },
+    {
+        "hero_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/stores.png",
+        "title": "Store",
+        "body": "All local stores are categorized for your convenience",
+        "icon_asset": "https://raw.githubusercontent.com/mike270787/material_page_reveal-recording/master/assets/shopping_cart.png",
+        "color": "0xFF9B90BC"
+    }
+]
